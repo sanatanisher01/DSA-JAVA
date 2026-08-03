@@ -20,7 +20,7 @@ public class Main {
         }
         for(int i = 1; i<n; i++){
             if(arr[i] != max1 && arr[i] > max2){
-                max2 = arr[i];
+                max2 = arr[i]
             }
         }
         System.out.print(max2);
