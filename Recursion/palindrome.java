@@ -9,6 +9,5 @@ public class Main {
     public static void main(String[] args) {
         String str = "aryan";
         System.out.print(palin(str,0,str.length()-1));
-        
     }
 }
