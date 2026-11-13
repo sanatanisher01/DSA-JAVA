@@ -20,10 +20,10 @@ public class Main {
             }
         }
         if(ans){
-            System.out.print("Sorted");
+            System.out.println("Sorted");
         }
         else{
-            System.out.print("Not Sorted");
+            System.out.println("Not Sorted");
         }
     }
 }
